@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  width: 350px;
+  padding: auto;
+  margin: auto;
+  border: 1px solid black;
+  background-color: black;
+  color: yellow;
+}
+.form {
+  text-align: center;
+  margin: 10px;
+  background-color: green;
+}
+h1 {
+  padding: 10px;
+}
+#name {
+  margin: 10px;
+}
+#skill {
+  margin: 10px;
+}
+#email {
+  margin: 10px;
+}
+#mobilen {
+  margin: 10px;
+}
+#submit {
+  font-size: 20px;
+  margin: 10px;
+  background-color:red;
+}
+.radio-wrap {
+  margin: 10px;
+}
+label {
+  color: yellow;
+  margin-left: 10px;
+}
+
